@@ -28,6 +28,20 @@ SPECIAL THANKS AND CREDITS :
 default.lay provided by spycat. Big thanks to him !
 
 I use some artwork find on the net, like house of the dead.wiki / time crisis.wiki and other sources. I cannot remember all, but big thank you to them for their work !
+
+GAmes Bezels List :
+- Time Crisis 1 / 2 / 3
+- -House of the Dead 1 / 2
+- Point Blank 1 / 2 / 3
+- Space Gun
+- Carnevil
+- Gunblabe
+- Operation Wolf / Thunderbolt
+- Virtua Cop 1 / 2 / Elite Edition (2 versions)
+- Lethal Enforcers 1 / 2
+- Aera 51 / Maximum Force
+- Steel Gunner 1 /2
+
 <img width="1920" height="1080" alt="Capture d&#39;écran 2026-04-23 182513" src="https://github.com/user-attachments/assets/9ed1758a-3446-489e-ab77-307b606956cd" />
 <img width="1920" height="1080" alt="Capture d&#39;écran 2026-04-25 151809" src="https://github.com/user-attachments/assets/f7f30dc1-cb71-49c7-8d48-9170bdb46a6f" />
 <img width="1920" height="1080" alt="Capture d&#39;écran 2026-04-25 151716" src="https://github.com/user-attachments/assets/e2db587b-5e59-4e9f-98c0-c0b7d025a966" />
