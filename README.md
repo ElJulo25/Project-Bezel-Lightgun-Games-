@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="pcsx2-qt 2026-04-25 16-15-13_790" src="https://github.com/user-attachments/assets/ace6f5e3-767b-4606-bbb2-64e1480b1c72" />
+<img width="1920" height="1080" alt="pcsx2-qt 2026-04-25 16-15-13_790" src="https://github.com/user-attachments/assets/b45a2ee7-7d3c-4968-baea-987ac03bdfcd" />
+<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/e795bb53-1d0d-4665-867a-b54b9cdb0166" />
 # Project-Bezel-Lightgun-Games-
 Bezels for Emulators MAME and Others
 Project Bezel for Lightgun Games By El Julo
